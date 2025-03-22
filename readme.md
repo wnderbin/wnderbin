@@ -1,4 +1,3 @@
-## Welcome, you can call me wnderbin
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=10000&pause=1000&color=F7F7F7&width=435&lines=wnderbin)](https://git.io/typing-svg)
 
