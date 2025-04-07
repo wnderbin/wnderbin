@@ -4,7 +4,7 @@
 
 ### About:
 * **I am a 17 year old backend developer who knows golang, python and several other programming languages**
-[![My Skills](https://skillicons.dev/icons?i=go,python,html,css,c,cpp,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,html,css,c,cpp,linux,ubuntu,kali,bash)](https://skillicons.dev)
 * **CEO of HydraStudio2k**
 
 ### Skills:
