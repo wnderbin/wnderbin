@@ -16,5 +16,3 @@
 ### Social:
 #### My social:
 [![wnderbin code](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wnderbin_code)
-#### HydraStudio2k social:
-[![HydraStudio2l](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HydraStudio2k)
