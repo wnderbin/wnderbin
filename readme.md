@@ -26,4 +26,8 @@ I develop projects of varying complexity and am ready for any collaborations and
 * I work for results and quality, focusing on the speed of the product and its efficiency
 * I can select a competent solution for the needs of the final product
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/wnderbin)
+**Ready to discuss the project? Write:** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/wnderbin)
+
+
+### Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnderbin&theme=rose_pine&hide_border=true&show_icons=true)
