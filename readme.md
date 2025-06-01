@@ -30,7 +30,5 @@ I develop projects of varying complexity and am ready for any collaborations and
 
 
 ### Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnderbin&theme=rose_pine&hide_border=true&show_icons=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wnderbin&theme=tokyonight)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wnderbin&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnderbin&theme=rose_pine&hide_border=true&show_icons=true)
