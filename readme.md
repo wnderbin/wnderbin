@@ -28,7 +28,15 @@ I develop projects of varying complexity and am ready for any collaborations and
 
 **Ready to discuss the project? Write:** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/wnderbin)
 
+_______
 
-### Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wnderbin&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnderbin&theme=rose_pine&hide_border=true&show_icons=true)
+<h3 align="center"> My stats: </h3>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wnderbin&theme=rose_pine&hide_border=true&show_icons=true"/>
+<img src="https://streak-stats.demolab.com/?user=wnderbin&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wnderbin&theme=tokyonight">
+</div>
