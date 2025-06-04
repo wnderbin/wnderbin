@@ -19,7 +19,7 @@ I develop projects of varying complexity and am ready for any collaborations and
 * Docker
 * Rest API
 * Telegram bot with databases, caching and anti-flood
-* Hosting projects on the server (ubuntu / debian )
+* Hosting projects on the server ( ubuntu / debian )
 
 ### Why choose me / soft skills:
 * Development of a project from scratch: from idea to release and host
